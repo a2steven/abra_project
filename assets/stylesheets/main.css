@@ -123,7 +123,7 @@ span.accent {
   border: none;
   width: 285px;
   height: 55px;
-  background: url(../images/tour_badge.png) no-repeat;
+  background: url(../images/adventure_badge.png) no-repeat;
   display:block;
   margin: 70px 0 0 783px;
 }
@@ -398,7 +398,7 @@ span.accent {
   font: normal 1.4em Helvetica, Arial, sans-serif;
   color: #2c566a;
 }
-#mainContent #mainArticle h2 span.tourCost {
+#mainContent #mainArticle h2 span.adventureCost {
   font-size: .8em;
   color: #666;
   font-style: italic;
@@ -455,21 +455,21 @@ span.accent {
   background: #952;
   border: none;
 }
-#mainContent div.tourDescription {
+#mainContent div.adventureDescription {
   border-top: 2px solid #2c566a;
   float: left;
   clear: left;
   padding: 10px 0;
   margin-bottom: 15px;
 }
-#mainContent .tourDescription h2 {
+#mainContent .adventureDescription h2 {
   font-size: 1.6em;
   color: #193742;
   font-weight: bold;
   margin-bottom: .5em;
   clear: right;
 }
-#mainContent .tourDescription h3.price {
+#mainContent .adventureDescription h3.price {
   font-size: 1.2em;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #666;
@@ -479,20 +479,20 @@ span.accent {
   clear: right;
   margin: -1.6em 0 1em;
 }
-#mainContent .tourDescription p {
+#mainContent .adventureDescription p {
   font-size: .9em;
   line-height: 2;
 }
-#mainContent .tourDescription span.option {
+#mainContent .adventureDescription span.option {
   font-weight: bold;
   text-align: right;
   display:block;
 }
-#mainContent .tourDescription img {
+#mainContent .adventureDescription img {
   float: left;
   padding: 10px 10px 10px 0;
 }
-#mainContent .tourDescription a.more {
+#mainContent .adventureDescription a.more {
   display:block;
   float: right;
   width: 95px;
@@ -513,7 +513,7 @@ span.accent {
 #mainContent a.detail {
   float: left;
 }
-#mainContent .tourDescription a.more:hover,#mainContent a.book:hover{
+#mainContent .adventureDescription a.more:hover,#mainContent a.book:hover{
   background-position: right top;
   border: none;
 }
